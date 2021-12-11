@@ -1,0 +1,10 @@
+@import url(./__phone/contacts__phone.css);
+@import url(./__mail/contacts__mail.css);
+@import url(./__icons/contacts__icons.css);
+@import url(./__icons-image/contacts__icons-image.css);
+
+.contacts {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}

@@ -1,0 +1,9 @@
+.coll-me_utp-block-button {
+    text-transform: uppercase;
+    padding: 25px 50px;
+    max-width: max-content;
+    max-height: max-content;
+    margin: 100px 100px 0 0;
+    display: flex;
+    align-self: flex-end;
+}

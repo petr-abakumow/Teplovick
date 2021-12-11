@@ -1,0 +1,10 @@
+.contacts__phone {
+    text-decoration: none;
+    color: black;
+    box-sizing: border-box;
+}
+
+.contacts__phone::before {
+    content: "\260E";
+    padding-right: 10px;
+}

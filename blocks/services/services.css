@@ -1,0 +1,13 @@
+@import url(./__title/servises__title.css);
+@import url(./__items/servises__items.css);
+@import url(./__item/servises__item.css);
+@import url(./__item-image/servises__item-image.css);
+@import url(./__item-img/servises__item-img.css);
+@import url(./__item-text/servises__item-text.css);
+
+.services {
+    width: 1440px;
+    margin: auto;
+    box-sizing: border-box;
+    padding: 50px 0;
+}

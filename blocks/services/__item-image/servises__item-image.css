@@ -1,0 +1,6 @@
+.servises__item-image {
+    width: inherit;
+    height: 80%;
+    padding: 10px;
+    box-sizing: border-box;
+}

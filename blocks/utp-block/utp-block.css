@@ -1,0 +1,12 @@
+@import url(./__title/utp-block__title.css);
+@import url(./_utp-block-button/coll-me_utp-block-button.css);
+
+.utp-block {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 1440px;
+    margin: auto;
+    box-sizing: border-box;
+    padding: 50px 0;
+}

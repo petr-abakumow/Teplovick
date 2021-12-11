@@ -1,0 +1,10 @@
+.contacts__mail {
+    text-decoration: none;
+    color: black;
+    box-sizing: border-box;
+}
+
+.contacts__mail::before {
+    content: "\1F582";
+    padding-right: 10px;
+}

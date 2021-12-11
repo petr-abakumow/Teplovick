@@ -1,0 +1,34 @@
+.work-me__table {
+    list-style-type: none;
+    margin: auto;
+    max-width: max-content;
+  }
+  
+  .work-me__table li {
+    margin-top: 30px;
+    position: relative;
+  }
+  
+  .work-me__table li::before {
+    content: "";
+    display: inline-block;
+    position: absolute;
+    left: -30px;
+    top: 8px;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: #C0C0C0;
+  }
+
+  .work-me__table li:hover::before {
+    transition-duration: 0.5s;
+    background: #025c1d;
+    cursor: pointer;
+  }
+  
+  .work-me__table li:hover {
+    transition-duration: 0.5s;
+    opacity: 0.6;
+    cursor: pointer;
+  }
